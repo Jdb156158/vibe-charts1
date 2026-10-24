@@ -1,0 +1,5 @@
+.DS_Store
+node_modules/
+.venv/
+film/frames/
+film/charts-motion-15s.mp4
